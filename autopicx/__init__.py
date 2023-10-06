@@ -9,7 +9,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 API_ID = int(environ.get("API_ID", "6620972"))
 API_HASH = environ.get("API_HASH", "3f6835286b03e000ab6d71b37cc35b92")
-SESSION = environ.get("SESSION", "BQCxw1pNin5BLpgc22AQpWdQlINVqBN93Oenoe7w8i00GUWd7_PVjvuo5TaHlFoA5gICVHX9UfMKEfNkKeaDIjVnOqyqOzkv_TWzBLcivQMWR8-jTb9bM5yFy5ahD1OtaXsBsKwIUN-OTJulsUIJu1-tmbtge2-voAIjolbky_q8mvS2kYOJSP_9luUU0GUn52wX9h8BNm4WxPL-iVlq7j1YPUu5sQCZT0MhnxgQOp2HsLXeJiWyGfn7lszYhZSktoB3rpFCGZufHuoGFYbW8pxavyCx_lEK4R463Di8HhFqPtZ628CfDwxRYgK04miv8liF5_ShpOHkp6QgAk7X_lTBaANPBgA")
+SESSION = environ.get("SESSION", "1BVtsOHMBu8J0iTkcf-xSm7pCHbtaEsOG44KBFxp3tLlgaZb_drfOytoJpJ3bivRzPT0OKqqBJiTXtSj9sxNztZBWjE4VwBXfBCfsMXfmi9xYdW37roZ1xo1AdfsfmYZ5q4JCVaw4TDg42TWi8caxgY9zIc-c9fHe1mDFsnhelJWkkscP6gUQZK8ROpIWB8ZK5rDLS-HsGk3muMwjYB2wpfKAeAUphV-1YTE6AEmmyuCSAwwpjV8_QSNUasRC5lGqD_nE8ZGmdFPCb84t8IpGzCBvCLpecNgritCUoL28ouC7iHWrcEUUk6QDJrekpC6Rd4zelzNuPlO2zFA6wJFHeELv6w_S_t0=")
 TIME = int(environ.get("TIME", "60"))
 CHANNEL_ID = int(environ.get("CHANNEL_ID", "-1001836315219"))
 
